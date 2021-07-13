@@ -1,14 +1,13 @@
 # Days 1-15
 Days 1-15 out of 100 days of Python code.
 
-:warning: This page is displayed in reverse chronological order :warning:
-
 ## Table of Contents
  - [Main Page](https://github.com/amyjtech/100DaysPython)
  - [Days 1-15](https://github.com/amyjtech/100DaysPython/tree/main/days1-15)
  - [Sources](https://github.com/amyjtech/100DaysPython#sources)
 
 ## Days 1-15
+:exclamation: This is displayed in reverse chronological order
  #### Day 2 - [Identifying Patterns with Regular Expressions](https://github.com/amyjtech/100DaysPython/tree/main/days1-15/day2)
 > Using different methods to identify patterns with the regex module.
 >
