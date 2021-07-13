@@ -2,8 +2,8 @@
 Sharing a piece of code everyday for 100 days from the book "Automate the Boring Stuff with Python".
 
 ## Table of Contents
-[Days 1-15](https://github.com/amyjtech/100DaysPython)
-[Sources](https://github.com/amyjtech/100DaysPython#sources)
+- [Days 1-15](https://github.com/amyjtech/100DaysPython)
+- [Sources](https://github.com/amyjtech/100DaysPython#sources)
 
 ## Days Completed
 ### Days 1-15
