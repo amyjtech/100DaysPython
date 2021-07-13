@@ -1,7 +1,7 @@
 # Days 1-15
 Days 1-15 out of 100 days of Python code.
 
-This page is displayed in reverse chronological order.
+:warning: This page is displayed in reverse chronological order :warning:
 
 ## Table of Contents
  - [Main Page](https://github.com/amyjtech/100DaysPython)
