@@ -1,9 +1,6 @@
 # Automate the Boring Stuff with Python
 # Chapter 7 - Identifying Patterns with Regular Expressions
 
-
-# Using Regular Expressions
-
 # Importing the regex model
 import re
 
@@ -41,19 +38,21 @@ print(mo2.group())
 
 
 print('\n')
-# Matching Specific Repetitions w/ Braces
+# Matching Specific Repetiions w/ Braces
+
+# This will match any str that has 'Ha' 3 or more times
 haRegex = re.compile(r'(Ha){3}')
 
-# Matches regex
+# Matches
 mo1 = haRegex.search('HaHaHa')
 print(mo1.group())
 
-# Does not match regex since there is iteration
+# Does not match
 mo2 = haRegex.search('Ha')
 print(mo2 == None)
 
-# (Ha){3} matches 3 or more of the same
-mo3 = haRegex.search('HaHaHaHa')
+# Matches
+mo3 = haRegex.search('HaHaHaHaHa')
 print(mo3.group())
 
 
@@ -62,18 +61,66 @@ print('\n')
 
 # search() returns the first matched text in the searched str
 phoneNumRegex = re.compile(r'\d\d\d-\d\d\d-\d\d\d\d')
+
 mo = phoneNumRegex.search('Cell: 415-555-9999 Work: 212-555-0000')
-print(f'search() method\n',mo.group())
+print(f'search() method',mo.group())
 
 # findall() returns EVERY match in the searched str
 phoneNumRegex = re.compile(r'\d\d\d-\d\d\d-\d\d\d\d')
+
 mo2 = phoneNumRegex.findall('Cell: 415-555-9999 Work: 212-555-0000')
-print(f'findall() method\n',mo2)
+print(f'findall() method',mo2)
+
+
+print('\n')
+# Making your own Character Class
+
+# Use [ ] to create custom character classes
+# This character class will match any vowel lowercase or uppercase
+vowelRegex = re.compile(r'[aeiouAEIOU]')
+
+mo = vowelRegex.findall('RoboCop eats baby food. BABY FOOD.')
+print(mo)
+
+# Create a negative custom character class
+# This will match all characters NOT in the character class
+consonantRegex = re.compile(r'[^aeiouAEIOU]')
+
+mo2 = consonantRegex.findall('RoboCop eats baby food. BABY FOOD.')
+print(mo2)
+
+
+print('\n')
+# Using the Caret Character
+
+# The caret symbol indicates a match at the beginning
+startHello = re.compile(r'^Hello')
+
+mo = startHello.search('Hello, world!')
+print(mo)
+
+mo2 = startHello.search('He said hello')
+print(mo2 == None)
+
+
+print('\n')
+# Using the Dollar Sign Character
+
+# The dollar sign symbol indicates a match at the end
+endNum = re.compile(r'\d$')
+
+mo = endNum.search('Your number is 42')
+print(mo)
+
+mo2 = endNum.search('Your number is forty-two')
+print(mo2 == None)
 
 
 
 
-# Not Using Regular Expressions
+
+
+# Example of searching a phone number NOT using regular expressions
 
 # def isPhoneNumber(text):
 #     if len(text) != 12:
