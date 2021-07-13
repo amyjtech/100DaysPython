@@ -21,4 +21,4 @@ Sharing a piece of code everyday for 100 days from the book "Automate the Boring
 | Website | Link|
 |--|--|
 | Free eBook | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) |
-| Youtube | [Lessons 1-15 Playlist](https://youtu.be/1F_OgqRuSdI) |
+| Youtube | [Lessons 1-15 Playlist](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW) |
