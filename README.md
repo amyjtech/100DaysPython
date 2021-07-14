@@ -1,6 +1,6 @@
 
 # 100 Days of Python
-Sharing a piece of code everyday for 100 days from the book "Automate the Boring Stuff with Python".
+Sharing a piece of Python code everyday for 100 days.
 
 ## Table of Contents
 - [Main Page](https://github.com/amyjtech/100DaysPython)
