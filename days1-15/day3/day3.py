@@ -17,7 +17,7 @@ phoneRegex = re.compile(r'''(
     (\d{4})
     # ext, x, or ext. for extension
     (\s*(ext|x|ext.)\s*(\d{2,5}))?
-    )''',re.re.VERBOSE)
+    )''',re.VERBOSE)
 
 # 2. Create a Regex for email addresses
 emailRegex = re.compile(r'''(
@@ -59,3 +59,5 @@ if len(matches) > 0:
     print('\n'.join(matches))
 else:
     print('No phone numbers or email addresses found.')
+
+# Copied text from nostarch.com/contactus/
