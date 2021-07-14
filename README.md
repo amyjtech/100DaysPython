@@ -19,7 +19,7 @@ Any code that requires further instructions will have it included with their REA
 2. Open in your preferred text editor.
 
 ## Days Completed
-### Days 1-15
+### Days 1-24
 #### Day 1 - [Guess the Number Game](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day1)
 > Terminal based game that uses the random module to pick a number between 1-20 that the user must guess within 6 guesses.
 >
