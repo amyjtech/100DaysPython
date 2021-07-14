@@ -1,10 +1,13 @@
-# Days 1-15
-Days 1-15 out of 100 days of Python code.
+# Days 1-24
+Days 1-24 out of 100 days of Python code.
 
 ## Table of Contents
- - [Main Page](https://github.com/amyjtech/100DaysPython)
- - [Days 1-15](https://github.com/amyjtech/100DaysPython/tree/main/days1-15)
- - [Sources](https://github.com/amyjtech/100DaysPython#sources)
+- [Main Page](https://github.com/amyjtech/100DaysPython)
+- [Days 1-24](https://github.com/amyjtech/100DaysPython/tree/main/days1-24)
+- [Days 25-49](https://github.com/amyjtech/100DaysPython/tree/main/days25-49)
+- [Days 50-74](https://github.com/amyjtech/100DaysPython/tree/main/days50-74)
+- [Days 75-100](https://github.com/amyjtech/100DaysPython/tree/main/days75-100)
+- [Sources](https://github.com/amyjtech/100DaysPython#sources)
 
  ## How to Use
 If you wish to use/view any of the code you can do so by following the directions below.
