@@ -1,6 +1,6 @@
 
 # 100 Days of Python
-Sharing a piece of Python code everyday for 100 days.
+Sharing a piece of code everyday for 100 days.
 
 ## Table of Contents
 - [Main Page](https://github.com/amyjtech/100DaysPython)
@@ -20,17 +20,17 @@ Any code that requires further instructions will have it included with their REA
 
 ## Days Completed
 ### Days 1-15
-#### Day 1 - [Guess the Number Game](https://github.com/amyjtech/100DaysPython/tree/main/days1-15/day1)
+#### Day 1 - [Guess the Number Game](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day1)
 > Terminal based game that uses the random module to pick a number between 1-20 that the user must guess within 6 guesses.
 >
 > The game will ask for the player's name, then tell the player if the guess it too low or too high, what guess they are currently on and asks if they would like to play again.
 
- #### Day 2 - [Identifying Patterns with Regular Expressions](https://github.com/amyjtech/100DaysPython/tree/main/days1-15/day2)
+ #### Day 2 - [Identifying Patterns with Regular Expressions](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day2)
 > Using different methods to identify patterns with the regex module.
 >
 > `.search()` method, matching multiple groups with `| pipe`, optional matching with `? question mark`, matching specific repetitions with `{ } braces`, `findall()` method, creating your own character class, matching with `^ caret` and `$ dollar sign` characters.
 
-#### Day 3 - [Phone Number and Email Extractor](https://github.com/amyjtech/100DaysPython/tree/main/days1-15/day3)
+#### Day 3 - [Phone Number and Email Extractor](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day3)
 > Uses regular expressions and pyperclip to extract phone numbers and emails from your clipboard.
 
 ## Sources
