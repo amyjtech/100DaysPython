@@ -6,6 +6,13 @@ Sharing a piece of code everyday for 100 days from the book "Automate the Boring
 - [Days 1-15](https://github.com/amyjtech/100DaysPython/tree/main/days1-15)
 - [Sources](https://github.com/amyjtech/100DaysPython#sources)
 
+## How to Use
+> If you wish to use/view any of the code you can do so by following the directions below.
+>
+> Any code that requires further instructions will have it included with their README.md
+1. [Clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) the repository.
+2. Open in your preferred text editor.
+
 ## Days Completed
 ### Days 1-15
 #### Day 1 - [Guess the Number Game](https://github.com/amyjtech/100DaysPython/tree/main/days1-15/day1)
@@ -17,6 +24,9 @@ Sharing a piece of code everyday for 100 days from the book "Automate the Boring
 > Using different methods to identify patterns with the regex module.
 >
 > `.search()` method, matching multiple groups with `| pipe`, optional matching with `? question mark`, matching specific repetitions with `{ } braces`, `findall()` method, creating your own character class, matching with `^ caret` and `$ dollar sign` characters.
+
+#### Day 3 - [Phone Number and Email Extractor](https://github.com/amyjtech/100DaysPython/tree/main/days1-15/day3)
+> Uses regular expressions and pyperclip to extract phone numbers and emails from your clipboard.
 
 ## Sources
 
