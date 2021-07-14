@@ -7,9 +7,10 @@ Days 1-15 out of 100 days of Python code.
  - [Sources](https://github.com/amyjtech/100DaysPython#sources)
 
  ## How to Use
-> If you wish to use/view any of the code you can do so by following the directions below.
->
-> Any code that requires further instructions will have it included with their README.md
+If you wish to use/view any of the code you can do so by following the directions below.
+
+Any code that requires further instructions will have it included with their README.md
+
 1. [Clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) the repository.
 2. Open in your preferred text editor.
 
