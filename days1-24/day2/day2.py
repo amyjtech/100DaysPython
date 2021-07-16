@@ -10,7 +10,7 @@ phoneNumRegex = re.compile(r'\d\d\d-\d\d\d-\d\d\d\d')
 # Pass str you want to search using .search() method
 mo = phoneNumRegex.search('My number is 415-555-4242')
 
-print(f'Phone number found: ',mo.group())
+print(f'Phone number found: ', mo.group())
 
 
 print('\n')
@@ -63,13 +63,13 @@ print('\n')
 phoneNumRegex = re.compile(r'\d\d\d-\d\d\d-\d\d\d\d')
 
 mo = phoneNumRegex.search('Cell: 415-555-9999 Work: 212-555-0000')
-print(f'search() method',mo.group())
+print(f'search() method', mo.group())
 
 # findall() returns EVERY match in the searched str
 phoneNumRegex = re.compile(r'\d\d\d-\d\d\d-\d\d\d\d')
 
 mo2 = phoneNumRegex.findall('Cell: 415-555-9999 Work: 212-555-0000')
-print(f'findall() method',mo2)
+print(f'findall() method', mo2)
 
 
 print('\n')
@@ -114,10 +114,6 @@ print(mo)
 
 mo2 = endNum.search('Your number is forty-two')
 print(mo2 == None)
-
-
-
-
 
 
 # Example of searching a phone number NOT using regular expressions

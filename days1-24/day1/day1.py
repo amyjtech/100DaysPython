@@ -9,18 +9,18 @@ def randomNumberGame():
     # Requesting the player's name and saving to variable
     print('Hello, what is your name?')
     name = input()
-    
-    print(f'Well,',name,'I am thinking of a number between 1 and 20...')
+
+    print(f'Well,', name, 'I am thinking of a number between 1 and 20...')
 
     # Generating secret number
-    secretNumber = random.randint(1,20)
+    secretNumber = random.randint(1, 20)
 
     print('Take a guess!')
 
     # Using range to allow player 6 guesses
-    for guessesTaken in range(1,7):
+    for guessesTaken in range(1, 7):
         # Letting player know which guess they are on
-        print(f'This is your',guessesTaken,'guess!')
+        print(f'This is your', guessesTaken, 'guess!')
 
         # Taking the player's input and saving to 'guess' variable
         guess = int(input())
@@ -34,14 +34,16 @@ def randomNumberGame():
             break
 
     if guess == secretNumber:
-        print(f'You guessed correctly! It took you',guessesTaken,'guesses!')
+        print(f'You guessed correctly! It took you', guessesTaken, 'guesses!')
     else:
-        print(f'The number I am thinking of is',secretNumber)
+        print(f'The number I am thinking of is', secretNumber)
 
     # Calling 'playAgain()'
     playAgain()
 
 # Asking player if they want to play again
+
+
 def playAgain():
     print('Would you like to play again?\n0 for No, 1 for Yes')
 
@@ -56,6 +58,7 @@ def playAgain():
     else:
         print('Incorrect input!')
         playAgain()
+
 
 # Starting the game!
 randomNumberGame()

@@ -1,7 +1,8 @@
 # Automate the Boring Stuff with Python
 # Phone Number and Email Address Extractor w/ pyperclip
 
-import pyperclip, re
+import pyperclip
+import re
 
 # 1. Create a Regex for phone numbers
 phoneRegex = re.compile(r'''(
@@ -17,7 +18,7 @@ phoneRegex = re.compile(r'''(
     (\d{4})
     # ext, x, or ext. for extension
     (\s*(ext|x|ext.)\s*(\d{2,5}))?
-    )''',re.VERBOSE)
+    )''', re.VERBOSE)
 
 # 2. Create a Regex for email addresses
 emailRegex = re.compile(r'''(
@@ -29,7 +30,7 @@ emailRegex = re.compile(r'''(
     [a-zA-z0-9.-]+
     # .com, .org, .edu, etc
     (\.[a-zA-Z{2,4}])
-)''',re.VERBOSE)
+)''', re.VERBOSE)
 
 # This will expression will catch most emails, but will not match EVERY possible email.
 
@@ -43,7 +44,7 @@ for groups in phoneRegex.findall(txt):
     # Contains str from groups 1, 3 & 5 -- area code, 3 digits, 4 digits
     phoneNum = '-'.join([groups[1], groups[3], groups[5]])
     # Checking for group 8 and appending if found -- extension
-    if groups[8]!= '':
+    if groups[8] != '':
         phoneNum += ' x' + groups[8]
     matches.append(phoneNum)
 
