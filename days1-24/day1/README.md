@@ -1,4 +1,4 @@
-# Day 1
+# Day 1 - Guess the number
 > Terminal based game that uses the random module to pick a number between 1-20 that the user must guess within 6 guesses.
 >
 > The game will ask for the player's name, then tell the player if the guess it too low or too high, what guess they are currently on and asks if they would like to play again.

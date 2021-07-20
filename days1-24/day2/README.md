@@ -1,5 +1,4 @@
-
-# Day 2
+# Day 2 - Reviewing regex module
 > Using different methods to identify patterns with the regex module.
 >
 > `.search()` method, matching multiple groups with `| pipe`, optional matching with `? question mark`, matching specific repetitions with `{ } braces`, `findall()` method, creating your own character class, matching with `^ caret` and `$ dollar sign` characters.

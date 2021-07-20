@@ -1,4 +1,4 @@
-# Day 3
+# Day 3 - Phone number and email extractor
 > Uses regular expressions and pyperclip to extract phone numbers and emails from your clipboard.
 
 ## Table of Contents
