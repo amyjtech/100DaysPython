@@ -42,7 +42,7 @@ Any code that requires further instructions will have it included with their REA
 
 #### Day 4 - [Input Validation with PyInputPlus](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day4)
 
-> Uses regular expressions and pyperclip to extract phone numbers and emails from your clipboard.
+> Using different methods within PyInputPlus.
 
 ## Sources
 
