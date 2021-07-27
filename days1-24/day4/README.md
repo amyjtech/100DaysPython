@@ -1,6 +1,6 @@
 # Day 4 - Input Validation with PyInputPlus
 
-> Using different methods to within PyInputPlus
+> Using different methods within PyInputPlus
 >
 > `min`, `greaterThan`, `lessThan`, `blank` `limit`, `default`, `timeout` keyword arguments, and `inputCustom` validation
 
