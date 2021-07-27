@@ -20,7 +20,7 @@ Any code that requires further instructions will have it included with their REA
 1. [Clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) the repository.
 2. Open in your preferred text editor.
 
-## Days 1-15
+## Days 1-24
 
 #### Day 1 - [Guess the Number Game](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day1)
 
@@ -36,11 +36,11 @@ Any code that requires further instructions will have it included with their REA
 
 #### Day 3 - [Phone Number and Email Extractor](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day3)
 
-> Useing different methods within PyInputPlus
+> Uses regular expressions and pyperclip to extract phone numbers and emails from your clipboard.
 
 #### Day 4 - [Input Validation with PyInputPlus](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day4)
 
-> Uses regular expressions and pyperclip to extract phone numbers and emails from your clipboard.
+> Using different methods within PyInputPlus.
 
 ## Sources
 
