@@ -47,6 +47,7 @@ Any code that requires further instructions will have it included with their REA
 
 > Intro to OOP with Python.
 </details>
+
 ## Sources
 
 | Website    | Link                                                                        |
