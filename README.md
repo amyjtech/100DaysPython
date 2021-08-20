@@ -21,9 +21,8 @@ Any code that requires further instructions will have it included with their REA
 2. Open in your preferred text editor.
 
 ## Days Completed
-
-### Days 1-24
 <details>
+<summary><h3>Days 1-24</h3></summary>
 
 #### Day 1 - [Guess the Number Game](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day1)
 
