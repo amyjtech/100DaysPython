@@ -21,7 +21,7 @@ Any code that requires further instructions will have it included with their REA
 2. Open in your preferred text editor.
 
 ## Days 1-24
-
+<details open>
 #### Day 1 - [Guess the Number Game](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day1)
 
 > Terminal based game that uses the random module to pick a number between 1-20 that the user must guess within 6 guesses.
@@ -45,7 +45,7 @@ Any code that requires further instructions will have it included with their REA
 #### Day 5 - [Intro to OOP](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day5)
 
 > Intro to OOP with Python.
-
+</details>
 ## Sources
 
 | Website    | Link                                                                        |
