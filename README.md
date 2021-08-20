@@ -22,7 +22,7 @@ Any code that requires further instructions will have it included with their REA
 
 ## Days Completed
 <details>
-<summary><h3>Days 1-24</h3></summary>
+<summary>Days 1-24</summary>
 
 #### Day 1 - [Guess the Number Game](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day1)
 
