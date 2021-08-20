@@ -42,6 +42,10 @@ Any code that requires further instructions will have it included with their REA
 
 > Using different methods within PyInputPlus.
 
+#### Day 5 - [Intro to OOP](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day5)
+
+> Intro to OOP with Python.
+
 ## Sources
 
 | Website    | Link                                                                        |
