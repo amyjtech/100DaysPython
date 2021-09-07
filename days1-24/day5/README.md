@@ -1,8 +1,8 @@
-# Day 4 - Intro to OOP
+# Day 5 - Intro to OOP
 
-> Intro to OOP and classes/methids.
+> Intro to OOP and classes/methods.
 >
->  Class inheritance, `@staticmethod`, `@classmethod`
+> Class inheritance, `@staticmethod`, `@classmethod`
 
 ## Table of Contents
 
