@@ -50,7 +50,7 @@ Any code that requires further instructions will have it included with their REA
 
 #### Day 6 - [Intro to OOP](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day6)
 
-> More OOP examples, inheritance from 2 parents, overriding methods
+> Class inheritance, inheriting from multiple parent classes, overriding methods
 
 </details>
 
