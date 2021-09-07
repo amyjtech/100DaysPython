@@ -21,6 +21,7 @@ Any code that requires further instructions will have it included with their REA
 2. Open in your preferred text editor.
 
 ## Days Completed
+
 <details>
 <summary>Days 1-24</summary>
 
@@ -46,7 +47,12 @@ Any code that requires further instructions will have it included with their REA
 
 #### Day 5 - [Intro to OOP](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day5)
 
-> Intro to OOP with Python.
+> Intro to OOP with Python, using `@staticmethod`, `@classmethod`
+
+#### Day 6 - [Intro to OOP](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day6)
+
+> More OOP examples, inheritance from 2 parents, overriding methods.
+
 </details>
 
 ## Sources
