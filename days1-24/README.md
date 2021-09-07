@@ -21,6 +21,7 @@ Any code that requires further instructions will have it included with their REA
 2. Open in your preferred text editor.
 
 ## Days 1-24
+
 <details open>
 
 #### Day 1 - [Guess the Number Game](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day1)
@@ -45,12 +46,18 @@ Any code that requires further instructions will have it included with their REA
 
 #### Day 5 - [Intro to OOP](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day5)
 
-> Intro to OOP with Python.
+> Intro to OOP with Python, using `@staticmethod`, `@classmethod`
+
+#### Day 6 - [Intro to OOP](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day6)
+
+> More OOP examples, inheritance from 2 parents, overriding methods
+
 </details>
 
 ## Sources
 
-| Website    | Link                                                                        |
-| ---------- | --------------------------------------------------------------------------- |
-| Free eBook | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) |
-| Youtube    | [Lessons 1-15 Playlist](https://youtu.be/1F_OgqRuSdI)                       |
+| Website    | Link                                                                              |
+| ---------- | --------------------------------------------------------------------------------- |
+| Free eBook | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)       |
+| Youtube    | [Lessons 1-15 Playlist](https://youtu.be/1F_OgqRuSdI)                             |
+| Youtube    | [Tech with Tim Channel](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) |

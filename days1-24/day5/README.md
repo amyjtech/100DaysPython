@@ -15,4 +15,4 @@
 
 ## Source
 
-- ["Automate the Boring Stuff with Python" Free eBook - Chapter 8](http://automatetheboringstuff.com/2e/chapter8/)
+- [Python OOP Video - TechWithTim](https://www.youtube.com/watch?v=JeznW_7DlB0)
