@@ -53,6 +53,10 @@ Any code that requires further instructions will have it included with their REA
 
 > Class inheritance, inheriting from multiple parent classes, overriding methods
 
+#### Day 7 - [Intro to OOP](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day7)
+
+> Lorem Ipsum
+
 </details>
 
 ## Sources
