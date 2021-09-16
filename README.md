@@ -45,15 +45,15 @@ Any code that requires further instructions will have it included with their REA
 
 > Using different methods within PyInputPlus.
 
-#### Day 5 - [Intro to OOP](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day5)
+#### Day 5 - [Intro to OOP pt.1](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day5)
 
 > Intro to OOP with Python, using `@staticmethod`, `@classmethod`
 
-#### Day 6 - [Intro to OOP](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day6)
+#### Day 6 - [Intro to OOP pt.2](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day6)
 
 > Class inheritance, inheriting from multiple parent classes, overriding methods
 
-#### Day 7 - [Intro to OOP](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day7)
+#### Day 7 - [Text](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day7)
 
 > Lorem Ipsum
 
