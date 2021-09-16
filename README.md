@@ -61,7 +61,8 @@ Any code that requires further instructions will have it included with their REA
 
 ## Sources
 
-| Website    | Link                                                                        |
-| ---------- | --------------------------------------------------------------------------- |
-| Free eBook | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) |
-| Youtube    | [Lessons 1-15 Playlist](https://youtu.be/1F_OgqRuSdI)                       |
+| Website    | Link                                                                                 |
+| ---------- | ------------------------------------------------------------------------------------ |
+| Free eBook | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)          |
+| Youtube    | [Automate the Boring Stuff with Python - Lessons 1-15](https://youtu.be/1F_OgqRuSdI) |
+| Youtube    | [Tech with Tim Channel](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)    |
