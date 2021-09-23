@@ -1,8 +1,9 @@
-# Day 7 -
+# Day 7 - Create a Website FAST with Flask
 
-> Title
+> Create a Website FAST with Flask
 >
-> lorem ipsum
+> Create the layout of a basic webpage within 20 mins using Python and Flask.
+> Creating views/routes, rendering HTML, template variables, URL & query parameters, returning/getting JSON data, redirect(s), Javascript, and template inheritance
 
 ## Table of Contents
 
@@ -15,4 +16,4 @@
 
 ## Source
 
-- [txt](link)
+- [Make A Python Website As Fast As Possible! - TechwithTim](https://www.youtube.com/watch?v=kng-mJJby8g&t=970s)

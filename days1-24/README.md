@@ -52,9 +52,9 @@ Any code that requires further instructions will have it included with their REA
 
 > Class inheritance, inheriting from multiple parent classes, overriding methods
 
-#### Day 7 - [Text](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day7)
+#### Day 7 - [Create a Website FAST with Flask](https://github.com/amyjtech/100DaysPython/tree/main/days1-24/day7)
 
-> Lorem ipsum
+> Creating views/routes, rendering HTML, template variables, URL & query parameters, returning/getting JSON data, redirect(s), Javascript, and template inheritance
 
 </details>
 
