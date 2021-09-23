@@ -1,8 +1,7 @@
 # Day 7 - Create a Website FAST with Flask
 
-> Create a Website FAST with Flask
->
 > Create the layout of a basic webpage within 20 mins using Python and Flask.
+>
 > Creating views/routes, rendering HTML, template variables, URL & query parameters, returning/getting JSON data, redirect(s), Javascript, and template inheritance
 
 ## Table of Contents
