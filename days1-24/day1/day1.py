@@ -1,6 +1,5 @@
 # Automate the Boring Stuff with Python - Lesson 12
 # Guess the Number Game
-
 import random
 
 
